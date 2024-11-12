@@ -57,6 +57,8 @@ def show_countdown():
 
 def main():
     st.title(" はんなりデジタルタイピング ")
+    st.write("京都のデジタル教室")
+    st.html("<p><a href='https://www.chomoku.info/hannari-digital'>はんなりデジタル教室　Presents</p>")
     initialize_session_state()
     st.image('./image/hannari-han.png', width=200)
 
