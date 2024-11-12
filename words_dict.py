@@ -1,0 +1,22 @@
+kyo_kotoba_dict = {
+    "なんねんめどすか？": ["何年目ですか？", "NANNENME DOSUKA?"],
+    "大根のたいたん": ["大根の煮物", "DAIKON NO TAITAN"],
+    "ほなさいなら": ["それでは、さようなら", "HONA SAINARA"],
+    "けったいな服やな": ["奇妙な服だな", "KETTAI NA FUKU YANA"],
+    "しょーもないな": ["くだらないな", "SHO-MO NAI NA"],
+    "もっさいふくやな": ["ダサい服だな", "MOSSAI FUKU YANA"],
+    "まいどおーきに": ["いつもありがとう", "MAIDO O-KINI"],
+    "かまへんで": ["気にしないで", "KAMAHEN DE"],
+    "いけずなだんさんやで": ["意地悪な旦那さんだよ", "IKEZU NA DANSAN YADE"],
+    "かんにんしてや": ["許してや", "KANNIN SHITE YA"],
+    "なんぎやな": ["大変だな", "NANGI YANA"],
+    "いちびり": ["調子に乗る人", "ICHIBIRI"],
+    "えげつないな": ["ひどいな", "EGETSUNAI NA"],
+    "はんなりはんやな": ["上品で華やかだね", "HANNARI HAN YANA"],
+    "せわしないひとやで": ["忙しい人だよ", "SEWASHINAI HITO YADE"],
+    "さらの服": ["新しい服", "SARA NO FUKU"],
+    "おこしやす": ["いらっしゃいませ", "OKOSHI YASU"],
+    "おいでやす": ["いらっしゃい", "OIDE YASU"],
+    "ゆっくりしておくれやす": ["ごゆっくりどうぞ", "YUKKURI SHITE OKURE YASU"],
+    "ほんまかいな、それはかなんなぁ": ["本当ですか、それは困りますね", "HONMA KAINA, SORE WA KANAN NAA"]
+}
