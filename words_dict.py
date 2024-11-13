@@ -18,5 +18,14 @@ kyo_kotoba_dict = {
     "おこしやす": ["いらっしゃいませ", "OKOSHI YASU"],
     "おいでやす": ["いらっしゃい", "OIDE YASU"],
     "ゆっくりしておくれやす": ["ごゆっくりどうぞ", "YUKKURI SHITE OKURE YASU"],
-    "ほんまかいな、それはかなんなぁ": ["本当ですか、それは困りますね", "HONMA KAINA, SORE WA KANAN NAA"]
-}
+    "ほんまかいな、それはかなんなぁ": ["本当ですか、それは困りますね", "HONMA KAINA, SORE WA KANAN NAA"],
+    "おきばりやす": ['がんばって', "OKIBARI YASU"],
+    "おひさん": ['太陽', "OHISAN"],
+    "ぎょうさん食べや": ['たくさん食べなさい', "GYOUSAN TABEYA"],
+    "えらいたいへんやわ": ['とてもたいへん', 'ERAI TAIHENN'],
+    "そのどんつき曲がってや": ['その先の曲がり角を曲がってや', 'SOKONO DONTSUKI MAGATTE YA'],
+    "そのゴミほかしといて": ['そのゴミを捨てておいて', 'SOKONO GOMI HOKASHI TOITE'],
+    "ややこしいなぁ": ['ふくざつですね', 'YAYOKOSHII NAXA'],
+    "ごめんやす": ['ごめんください', 'GOMENN YASU'],
+    
+    }
